@@ -10,11 +10,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">KHALID GADUUDOW </span>
             from <span className="purple"> MOGADISHU, SOMALI.</span>
-            <br /> I am a final year Student Jamhuriya Universty (Just)
+            <br />I am a final year Student at Jamhuriya University ()
             For iT.
             <br />
-            Additionally, I am currently employed Odoo as Trainer at
-            Softprime .
+            Additionally, I am currently employed by Odoo as a Trainer at Softprime.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -27,7 +26,7 @@ function AboutCard() {
               <ImPointRight /> Creating Videos
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> joking
             </li>
           </ul>
 
