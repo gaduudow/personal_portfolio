@@ -8,7 +8,8 @@ function Type() {
         strings: [
           "forontEnd  Developer",
           "Graphic Designer",
-          "Open Source Contributor",
+          "video editor ",
+          "Trainer",
         ],
         autoStart: true,
         loop: true,
